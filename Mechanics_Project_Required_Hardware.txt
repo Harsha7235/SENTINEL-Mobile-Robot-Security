@@ -1,0 +1,35 @@
+MECHANICS PROJECT — REQUIRED HARDWARE LIST
+
+Project:
+LiDAR-Based Mobile Rover Motion, Stability & Trajectory Analysis
+
+ALREADY AVAILABLE:
+1. Raspberry Pi 5 8 GB — 1
+2. MicroSD card 60/64 GB — 1
+3. Arduino UNO R4 WiFi — 1
+4. Ultrasonic sensor — 1
+
+REQUIRED HARDWARE TO GET:
+1. Acrylic 6WD Curious Rover Chassis DIY Robotics Kit – 6WD Rocker-Bogie, 6 × BO Motors, 6 × Wheels — 1
+2. BTS7960 43A H-Bridge Motor Driver Module — 2
+3. MPU6050 6-Axis Accelerometer + Gyroscope Module — 1
+4. YDLIDAR X2 2D LiDAR — 1
+5. INA219 High-Side Current/Voltage Sensor Module — 1
+6. Wheel encoder solution compatible with the supplied BO motors — 1 set
+7. 12 V rechargeable Li-ion battery pack, approximately 4000–5000 mAh, with protection/BMS — 1
+8. LM2596 adjustable DC-DC buck converter module — 1
+9. USB webcam compatible with Raspberry Pi/Linux — 1
+10. Main DC power switch — 1
+11. Inline fuse + fuse holder — 1
+13. Motor/power wire set — 1 set
+14. USB-A to USB-C data cable for Arduino UNO R4 WiFi — 1
+
+
+IMPORTANT NOTES:
+- The 6WD chassis kit already includes the chassis, 6 BO motors and 6 wheels.
+- Do not buy a caster wheel separately.
+- The supplied BO motors are non-encoder motors, so encoder compatibility must be checked physically before purchasing a specific encoder.
+- Do not buy TB6612FNG for this 6WD version; use 2 × BTS7960 as the planned motor-driver arrangement.
+- Raspberry Pi 5 must receive a properly regulated 5 V supply. Do not connect the battery directly to the Pi.
+- If the lab provides any component, do not purchase it separately.
+
